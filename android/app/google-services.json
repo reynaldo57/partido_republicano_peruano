@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621220647919",
+    "project_id": "partido-republicano-peruano",
+    "storage_bucket": "partido-republicano-peruano.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621220647919:android:f2e3db0bd5559a55749c1a",
+        "android_client_info": {
+          "package_name": "com.example.partido_republicano_peruano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621220647919-d00eiu2uembe6gp2grcdojc1b04am8gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAePtGxe6gzN-AM0nSNoGMm0Q8Jy2SCHZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621220647919-d00eiu2uembe6gp2grcdojc1b04am8gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
