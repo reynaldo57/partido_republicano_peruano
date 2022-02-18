@@ -73,7 +73,7 @@ class _LoginAdminPageState extends State<LoginAdminPage> {
                       height: 60.0,
                     ),
                     Text(
-                      "Iniciar una  sgfgfgtgtgesion",
+                      "Iniciar una",
                       style: TextStyle(
                           fontSize: 30.0,
                           fontWeight: FontWeight.bold
