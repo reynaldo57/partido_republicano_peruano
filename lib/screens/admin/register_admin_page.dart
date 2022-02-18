@@ -65,7 +65,7 @@ class _RegisterAdminPageState extends State<RegisterAdminPage> {
                       height: 60.0,
                     ),
                     Text(
-                      "REGISTRARSE",
+                      "REGISTRARS a la aplicacion ",
                       style: TextStyle(
                           fontSize: 30.0,
                           fontWeight: FontWeight.bold
@@ -119,7 +119,7 @@ class _RegisterAdminPageState extends State<RegisterAdminPage> {
                           registerUuser();
                         },
                         child: Text(
-                          "REGIStar credenciales",
+                          "REGIStar nuestras super credenciales",
                         ),
                       ),
                     ),
