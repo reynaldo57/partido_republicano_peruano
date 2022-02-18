@@ -85,7 +85,7 @@ class _LoginAdminPageState extends State<LoginAdminPage> {
                     TextFormField(
                       decoration: InputDecoration(
                           labelText: "Correo Electronico",
-                          hintText: "Correo Electronico"
+                          hintText: "Correo Elejujthctronico"
                       ),
                       validator: (String? value){
                         if(value!.isEmpty || value == null){
