@@ -47,7 +47,7 @@ class _LoginAdminPageState extends State<LoginAdminPage> {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
             content: Text(
-              "La bvc se incorrecta",
+              "La eyertr se incorrecta",
             ),
             backgroundColor: Colors.redAccent,
           ),
